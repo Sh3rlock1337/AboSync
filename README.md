@@ -74,6 +74,4 @@ AboSync sendet Benachrichtigungen an Benutzer, wenn eine Abbuchung für ein Abon
 ## Lizenz
 Dieses Projekt steht unter der MIT-Lizenz.
 
-## Kontakt
-Falls Fragen oder Anregungen bestehen, kannst du mich über GitHub oder per E-Mail erreichen.
 
