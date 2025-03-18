@@ -128,7 +128,7 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'abosub_db',
+        'NAME': 'abosub_dbb',
         'USER': 'root',
         'PASSWORD': '',
         'HOST': 'localhost',
