@@ -69,5 +69,14 @@ AboSync sendet Benachrichtigungen an Benutzer, wenn eine Abbuchung für ein Abon
 
 ## Lizenz
 Dieses Projekt steht unter der MIT-Lizenz.
+![Abosync Landing](https://github.com/user-attachments/assets/bb356dd0-027b-4a03-b130-92b96637a266)
+![Abosync Landing2](https://github.com/user-attachments/assets/8ef3ea4a-c690-49e7-98b8-1cb56f249377)
 
+![Abosync Login](https://github.com/user-attachments/assets/025dc5d6-791d-4232-9806-3db46429f0c3)
 
+![Abosync Register](https://github.com/user-attachments/assets/62eb442b-7ba0-428c-b00e-6669782c8067)
+![Abosync Abochoose](https://github.com/user-attachments/assets/bac35b91-2416-42fd-a0d4-85d7eec8d8d9)
+
+![Abosync Dashboard](https://github.com/user-attachments/assets/9e54b4f2-99bf-4dca-a30f-a2baca85717c)
+![Abosync Aboanlegen](https://github.com/user-attachments/assets/0298bd1b-e74c-44ca-aac6-a8d77a30bdd8)
+![AboSync Detailview](https://github.com/user-attachments/assets/3c566dc1-c8e3-47b8-9260-a1d75a60fbca)
