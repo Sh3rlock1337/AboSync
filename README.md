@@ -23,8 +23,8 @@ AboSync ist eine SaaS-Anwendung, die Benutzern hilft, ihre Abonnements zu verwal
 ### Backend einrichten
 ```sh
 # Repository klonen
-git clone https://github.com/dein-repository.git
-cd dein-repository
+git clone https://github.com/Sh3rlock1337/AboSync.git
+cd backend
 
 # Virtuelle Umgebung erstellen
 python -m venv venv
@@ -45,11 +45,7 @@ python manage.py runserver
 ```
 
 ### Frontend einrichten
-```sh
-cd frontend
-npm install
-ng serve --open
-```
+(https://github.com/Sh3rlock1337/AboSyncFrontend)
 
 ## Wichtige Dateien
 - `models.py`: Enthält die Datenbankmodelle für Benutzer, Abonnements und Rechnungsintervalle
